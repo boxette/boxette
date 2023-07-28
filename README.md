@@ -15,4 +15,5 @@ triaging bugs and other game issues for the community and developers.
 
 i know my way around windows, linux, and OpenBSD. 
 i have surface level skill with lua, perl and python coding. 
+
 i more indepth knowledge knowledge of webdesign, systems administration, and networking.
