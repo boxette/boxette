@@ -13,5 +13,6 @@ we are a proud partner of [IRCNow](https://ircnow.org/), the users network that 
 i also do work for [HorizonXI](https://horizonxi.com/), a level 75 era Final Fantasy 11 Server that aims to recapture what the game was like in its wonder years,
 triaging bugs and other game issues for the community and developers.
 
-i know my way around windows, linux, and OpenBSD. i have surface level skill with lua, perl and python coding. 
+i know my way around windows, linux, and OpenBSD. 
+i have surface level skill with lua, perl and python coding. 
 i more indepth knowledge knowledge of webdesign, systems administration, and networking.
