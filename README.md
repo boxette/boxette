@@ -3,5 +3,3 @@
 
 hello i am boxette
 
-
-![1349748711974](https://tryhackme-badges.s3.amazonaws.com/boxette.png)
